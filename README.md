@@ -88,10 +88,6 @@ Ocean modifier settings
 Particle count
 Lighting intensity
 
-4.Render animation using:
-Eevee (Faster preview)
-Cycles (High realism)
-
 
 
 🎥 Rendering Settings (Recommended)
